@@ -1,6 +1,7 @@
 # Node-Assessment
-Project Setup
-Installation
+<h2>Project Setup</h2>
+<br>
+<h3> Installation </h3>
 Ensure node installed in system.
 npm install
 In terminal navigate to project root directory and run following commands:
